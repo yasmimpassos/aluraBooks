@@ -36,6 +36,10 @@
     margin-bottom: 0.5em;
 }
 
+.descricao{
+    width: 45%;
+}
+
 .descricao__titulo{
     font-weight: 700;
     color: var(--laranja);
@@ -55,6 +59,7 @@
 .card__botoes{
     display: flex;
     justify-content: space-between;
+    margin-top: 1em;
 }
 
 .botoes{
