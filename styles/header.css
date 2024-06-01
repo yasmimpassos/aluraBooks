@@ -37,6 +37,9 @@
     position: absolute;
     top: 100%;
     width: 70vw;
+    z-index: 999;
+    box-shadow: 0px 8px 8px 0px #00000040;
+
 }
 
 .lista-menu__titulo{

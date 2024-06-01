@@ -17,6 +17,10 @@
     margin: .5em 0;
 }
 
+.swiper-pagination-bullet-active {
+    background-color: var(--azul) !important;
+}
+
 .swiper-button-prev, 
 .swiper-button-next{
     display: none;
